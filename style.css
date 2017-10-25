@@ -1,3 +1,4 @@
+<style>
 body{
   background: url(https://media.giphy.com/media/vtf0uP1bwXBg4/giphy.gif) 100%;
   font-family: 'arial';
@@ -5,7 +6,7 @@ body{
   color: #f40082;
   font-size: 17px;
   line-height: 1.4em;
-
+  
 }
 
 h1, h2, h3{
@@ -18,7 +19,7 @@ h1{
 }
 
 h2{
-
+  
   font-size: 15px;
   color: #42eef4;
   font-weight: 12px;
@@ -52,7 +53,7 @@ table{
 .container{
   width: 600px;
   margin: 30px auto;
-
+  
 }
 
 .card{
@@ -66,3 +67,5 @@ table{
 .image-round{
   border-radius: 50%;
 }
+
+</style>
