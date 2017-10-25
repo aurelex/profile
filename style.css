@@ -1,6 +1,5 @@
-<style>
 body{
-  background: url(https://media.giphy.com/media/vtf0uP1bwXBg4/giphy.gif) 100%;
+  background: url(https://i.giphy.com/media/vtf0uP1bwXBg4/giphy.webp) 100%;
   font-family: 'arial';
   font-weight: 300;
   color: #f40082;
@@ -29,6 +28,13 @@ h3{
   font-size: 20px;
   font-weight: 300;
 }
+
+h5{
+  font-size: 15px;
+  font-weight: 150;
+  color: pink
+}
+
 
 a{
   color: #ccc;
@@ -67,5 +73,3 @@ table{
 .image-round{
   border-radius: 50%;
 }
-
-</style>
